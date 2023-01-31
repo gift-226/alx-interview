@@ -3,7 +3,9 @@
 
 
 def canUnlockAll(boxes):
-    """Takes a list of lists and the content of the list will unlock other lists"""
+    """Takes a list of lists and the content of the list will unlock other lists
+
+    """
 
     keys = [0]
     for key in keys:
